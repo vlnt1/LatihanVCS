@@ -79,4 +79,5 @@ Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah
 
 11. Cek File 
 Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami menambahkan tugaspemograman.docx file
+![image](https://user-images.githubusercontent.com/92628033/137586332-a99c4a2d-877e-4ce4-9ade-e41de3790613.png)
 
